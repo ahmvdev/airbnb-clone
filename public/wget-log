@@ -1,0 +1,6 @@
+--2024-08-02 19:10:56--  https://images.pexels.com/photos/26741245/pexels-photo-26741245/free-photo-of-a-bride-walking-down-the-stairs-at-her-wedding.jpeg?auto=compress
+Resolving images.pexels.com (images.pexels.com)... 104.18.66.220, 104.18.67.220, 2606:4700::6812:43dc, ...
+Connecting to images.pexels.com (images.pexels.com)|104.18.66.220|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-08-02 19:10:59 ERROR 403: Forbidden.
+
