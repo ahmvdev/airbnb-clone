@@ -9,7 +9,8 @@
 
 ### 🎥
 
-![Airbnb Clone Demo](https://github.com/user-attachments/assets/1f6aa4b9-1d71-4130-b3e8-9e8499c8e5bd)
+![Airbnb Clone Demo](https://github.com/user-attachments/assets/5f060a15-8f1a-469a-bcae-a395fa0219c8)
+
 
 ### 🌐 Live Demo
 
