@@ -1,8 +1,29 @@
-# React + Vite
+# 🏡 Airbnb Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What I Learned
 
-Currently, two official plugins are available:
+- Understanding and using `props` in React
+- Basics of React and Vite setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demos
+
+### 🎥
+
+![Airbnb Clone Demo](https://github.com/user-attachments/assets/1f6aa4b9-1d71-4130-b3e8-9e8499c8e5bd)
+
+### 🌐 Live Demo
+
+[**Check out the live demo**](https://airbnb-clone-sigma-beryl.vercel.app/#)
+
+---
+
+## Key Features
+
+- User-friendly interface
+- Responsive design
+
+## Technologies Used
+
+- React
+- Vite
+- HTML/CSS
